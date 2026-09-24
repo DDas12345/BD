@@ -257,7 +257,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (boxArt) {
                 if (btn.classList.contains('diamond-btn')) {
-                    boxArt.src = 'images/box_diamond.png';
+                    boxArt.src = 'images/box_diamond.jpg';
                 } else if (btn.classList.contains('pearl-btn')) {
                     boxArt.src = 'images/box_pearl.png';
                 }

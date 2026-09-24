@@ -178,8 +178,8 @@ body {
 
 /* Hover over container sets visibility layer */
 .dropdown:hover .dropdown-menu {
-    opacity: 1 !important;
-    visibility: visible !important;
+    opacity: 1;
+    visibility: visible;
     transform: translateX(-50%) translateY(4px);
 }
 
@@ -201,8 +201,8 @@ body {
 
 /* Custom classes injected via inline styles on visibility toggles */
 .visible {
-    opacity: 1 !important;
-    transform: translateY(0) !important;
+    opacity: 1;
+    transform: translateY(0);
 }
 
 /* Home / Landing Section Framework (Remastered from #hero to #home) */
@@ -831,7 +831,7 @@ section {
 
 .badge-legendary {
     background: linear-gradient(90deg, #b8b8d0, #7038f8);
-    color: #0a0b1e !important;
+    color: #0a0b1e;
 }
 
 .legendary-wrapper {
@@ -1139,7 +1139,7 @@ section {
 
 .badge-league {
     background: #ffd700;
-    color: #0a0b1e !important;
+    color: #0a0b1e;
 }
 
 .champion-showcase {
@@ -1662,7 +1662,7 @@ section {
 
 /* Hide Shining Pearl button - only show Brilliant Diamond */
 .pearl-btn {
-    display: none !important;
+    display: none;
 }
 
 .price-tag {
@@ -1674,9 +1674,9 @@ section {
 
 /* Mythos Manuscript Panel */
 .myth-modal-content {
-    max-width: 650px !important;
-    border-color: #8b7355 !important;
-    background: linear-gradient(135deg, #0f0c08 0%, #1e1710 100%) !important;
+    max-width: 650px;
+    border-color: #8b7355;
+    background: linear-gradient(135deg, #0f0c08 0%, #1e1710 100%);
     box-shadow: 0 0 40px rgba(139, 115, 85, 0.3);
 }
 
@@ -1769,7 +1769,7 @@ footer p {
 
 .badge-guardians {
     background: linear-gradient(90deg, #ffd700, #ff00ea, #00d2ff);
-    color: #0a0b1e !important;
+    color: #0a0b1e
 }
 
 .guardians-wrapper {
@@ -1881,8 +1881,8 @@ footer p {
 }
 
 .grunt-card:hover {
-    border-color: #b0b0b0 !important;
-    box-shadow: 0 15px 35px rgba(255, 255, 255, 0.1) !important;
+    border-color: #b0b0b0;
+    box-shadow: 0 15px 35px rgba(255, 255, 255, 0.1);
 }
 
 .grunt-dialogue {
