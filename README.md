@@ -101,7 +101,7 @@ Debanshika Das
 Role: Sole Developer
 
 GitHub Repository:
-https://github.com/DDas12345/Pok-mon-Brilliant-Diamond
+https://github.com/DDas12345/BD.git
 
 ## Disclaimer
 
